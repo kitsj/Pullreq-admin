@@ -1,5 +1,6 @@
 import sys
 
+print("minbeom")
 T = int(sys.stdin.readline().strip())
 n = list(map(int,sys.stdin.readline().split()))
 n.sort()
